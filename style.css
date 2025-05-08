@@ -60,8 +60,8 @@ button{
     margin-left: 6px;
     padding: 10px;
     background-color: blueviolet;
-    border-radius: 10px;
+    border-radius: 12px;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 600;
+    font-weight: 700;
     color: azure;
 }
